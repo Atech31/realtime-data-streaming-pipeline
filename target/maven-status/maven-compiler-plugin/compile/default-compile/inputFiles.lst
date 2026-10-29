@@ -1,0 +1,4 @@
+/workspaces/realtime-data-streaming-pipeline/src/main/java/com/pipeline/model/TelemetryEvent.java
+/workspaces/realtime-data-streaming-pipeline/src/main/java/com/pipeline/RealtimeDataStreamingProducerApplication.java
+/workspaces/realtime-data-streaming-pipeline/src/main/java/com/pipeline/service/KafkaProducerService.java
+/workspaces/realtime-data-streaming-pipeline/src/main/java/com/pipeline/controller/EventController.java
